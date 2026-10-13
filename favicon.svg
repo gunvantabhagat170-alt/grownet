@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="GrowNet">
+  <rect width="32" height="32" rx="8" fill="#08090c"/>
+  <g transform="translate(15.4 16) scale(0.9)">
+    <path fill="#c5ccd8" fill-rule="evenodd" d="M0-11.4A11.4 11.4 0 1 0 0 11.4 11.4 11.4 0 1 0 0-11.4ZM0-6.1A6.1 6.1 0 1 0 0 6.1 6.1 6.1 0 1 0 0-6.1ZM4-3.5H14.2V3.5H4Z"/>
+    <rect x="-0.3" y="-2.05" width="11.4" height="4.1" rx="0.4" fill="#c5ccd8"/>
+    <circle cx="11.8" cy="0" r="2.25" fill="#eef0f4"/>
+  </g>
+</svg>
